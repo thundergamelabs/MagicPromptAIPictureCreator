@@ -52,5 +52,9 @@
       "url": "",
       "description": "MagicPrompt is your creative companion for transforming words into beautiful visuals. Just type what’s in your mind — and let the AI turn it into an image. It’s simple, magical, and fun!"
     }
-  ]
+  ],
+  "microsoftstore": {
+    "productId": "9NB7X2W0BZZX"
+  },
+  "scopedStoreAccess": true
 }
